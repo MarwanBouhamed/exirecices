@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+        color: red;
+        font-weight: bold;
+        font-size: 40px;
+        width: fit-content;
+        height: fit-content;
+        border-bottom: red 2px solid;
+    }
